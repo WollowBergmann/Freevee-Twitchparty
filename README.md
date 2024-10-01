@@ -14,7 +14,7 @@ Diese Erweiterung funktioniert auch auf YouTube (Videos & Livestreams).
 
 ## Installieren vom Google Chrome Web Store (diese Version kann älter als die Github Version sein)
 
-- Installiere die Erweiterung über den [Google Chrome Web Store]([https://github.com/WollowBergmann/Freevee-Twitchparty/archive/refs/heads/main.zip](https://chromewebstore.google.com/detail/freevee-twitchparty/lnnbalajbimkocmldaihoiddlihfagdf))
+- Installiere die Erweiterung über den [Google Chrome Web Store](https://github.com/WollowBergmann/Freevee-Twitchparty/archive/refs/heads/main.zip](https://chromewebstore.google.com/detail/freevee-twitchparty/lnnbalajbimkocmldaihoiddlihfagdf)
 
 ## Installieren von Github
 
